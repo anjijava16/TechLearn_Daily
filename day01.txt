@@ -1,0 +1,111 @@
+
+1. https://github.com/anjijava16
+
+
+2.  Python --> de facto 
+
+  i. simple 
+
+
+
+    
+
+
+   // JDK (JDK1.8)
+   // Scala (2.12)
+    Java : Java Compile (.java) ==> .class   ==> JVM (java Virtual Machne)
+	Scala : Scala Compile(.scala) ==> .class ==> JVM 
+	
+	Python
+	
+	
+	
+	Java (JDK8) 
+	
+	JDK 11 
+
+Data Engineering 
+
+Data Science 
+
+
+
+Sources (SQLServer,Files,Real time ) =========> Ingestion (HDFS) 
+
+LFS : Local File System 
+
+HDFS : Hadoop Distributed File System 
+
+
+
+SQL Server ===> CSV ===> Ingestion (HDFS) ===> Outgoing (HDFS)  ==> Teradata 
+
+1. File System                          ===> Linux ===> ??
+2. Any One Programming Lanaguage        ===> Python ===>>
+3. Scripting                            ===> HQL /SQL /BQHQL/SNOWFLake SQL /Synapse TSQL ===> SQL 
+
+# Pre Requests ??
+1. Linux (Shell Scripting )
+2. Programming (Python)
+3. SQL (Hive SQL )
+
+
+
+
+Data Engineering 
+
+Source --> Ingestion (HDFS ) --- > Transfomration --> Output (Outgoing ) ---> Oracle/Teradata 
+
+Data Science 
+
+Currated /target ===> Oracle/Teradata ===> Match Models (Linear/) ==> 
+
+
+Cloud 
+
+T Mobile 
+
+
+
+Anji: Need to verify Labs info (either online or offline is best )
+5000
+Online 
+
+
+# Linux Scripting
+Linux Commands 
+HDFS  Commands 
+
+# Python 
+ Basic to bit advn
+ 
+# SQL 
+
+ 
+IDE: Python : Pycharm (step by step)
+SQL : mysql (HIVE) 
+
+# Big data 
+HDFS Commands 
+Hadoop arch infomration
+HDFS , MapReduce 
+
+Hive 
+Pig (overview)
+
+Spark 
+   Spark Core
+   Spark SQL 
+   Spark Streaming 
+
+Schudeling (zena) :
+
+OOZIE or airflow :  (Overview)
+
+
+# Azure 
+Compute --> Linux Servers
+Storage ---> HDFS 
+Databases --> Azure SQL Databases (Azure SQL /Microsoft SQL Server )
+Analaytics ---> Databricks clusters 
+
